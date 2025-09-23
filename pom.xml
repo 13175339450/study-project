@@ -27,6 +27,11 @@
         <module>demo03-mapStruct</module>
         <module>demo04-springContextHolder</module>
         <module>demo05-functionalInterface</module>
+        <module>Demo01-Basis</module>
+        <module>Demo02-MP</module>
+        <module>Demo03-EnvVariable</module>
+        <module>Demo04-ZeroIce</module>
+        <module>Demo04-ZeroIce</module>
     </modules>
 
     <properties>
